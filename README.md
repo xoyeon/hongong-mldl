@@ -7,7 +7,7 @@
 
 ### ✍매주 일요일 21시 스터디 진행
 
-<img src= "https://user-images.githubusercontent.com/85726134/130374971-6b9af5e3-cc02-4e2b-92e4-4f15c01dd9aa.png" width="400" height="400"/>
+<img src= "https://github.com/rickiepark/hg-mldl/blob/master/cover.png" width="400" height="400"/>
 
 
 
