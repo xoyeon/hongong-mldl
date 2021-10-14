@@ -5,7 +5,7 @@
 - [유튜브 동영상 강의](https://youtube.com/playlist?list=PLJN246lAkhQjoU0C4v8FgtbjOIXxSs_4Q)
 - [Outputs (aka. errata)](https://tensorflow.blog/hg-mldl/)
 
-### ✍매주 일요일 21시 스터디 진행
+### ✍매주 Chapter 하나씩 끝내기
 
 <img src= "https://raw.githubusercontent.com/rickiepark/hg-mldl/master/cover.png" width="400" height="400"/>
 
