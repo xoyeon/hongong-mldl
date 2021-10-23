@@ -6,7 +6,8 @@
 - [Outputs (aka. errata)](https://tensorflow.blog/hg-mldl/)
 
 ### ✍매주 Chapter 하나씩 끝내기
-
+* 1회독 : 210827 ~ 211023
+* 2회독 : (예정) Youtube 강의 들으면서 정리
 <img src= "https://raw.githubusercontent.com/rickiepark/hg-mldl/master/cover.png" width="400" height="400"/>
 
 
